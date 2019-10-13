@@ -18,11 +18,11 @@
 			<pos>0.5 0.5</pos>
 			<origin>0.5 0.5</origin>
 			<maxSize>0.7 0.7</maxSize>
-			<path>./console.png</path>
+			<path>./console-arcade-atari-system1.png</path>
 		</image>
 		
 		<image name="logo">
-			<path>./logo3.png</path>
+			<path>./logomame.png</path>
         </image>
 		
 		<helpsystem name="help">
