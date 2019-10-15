@@ -1,6 +1,11 @@
-# ES_Theme_push-a<br>
-feel free to use in your projects<br>
-made for 15khz CRTs 320x240px<br>
-- - - - - - - - - - - - - - - - - -<br>
-unzip this content in:<br>
+# ES_Theme_push-a
+
+feel free to use in your projects
+
+made for 15khz CRTs 320x240px
+
+- - - - - - - - - - - - - - - - - -
+
+unzip this content in:
+
 /opt/retropie/configs/all/emulationstation/themes/push-a/   
