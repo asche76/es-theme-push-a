@@ -1,4 +1,4 @@
-# ES_Theme_push-a
+Emulationstation Theme: push-a
 
 feel free to use in your projects
 
