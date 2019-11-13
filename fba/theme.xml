@@ -36,13 +36,14 @@
 	</view>
 
 	<view name="basic">
-
+		<!--
 		<image name="logo">
 			<path>./logo.png</path>
 			<pos>0.32 0.103</pos>
 			<maxSize>0.315 0.126</maxSize>
 			<origin>0.5 0.5</origin>
 		</image>
+		-->
 		
 		<image name="background" extra="true">
 			<tile>false</tile>
@@ -77,14 +78,17 @@
 	</view>
 
 	<view name="detailed">
+		
 		<!--
 		<image name="logo">
-			<path>./logo3.png</path>
-			<pos>0.78 0.12</pos>
-			<maxSize>0.33333 0.115</maxSize>
+			<path>./logo.png</path>
+			<pos>0.32 0.103</pos>
+			<maxSize>0.315 0.126</maxSize>
 			<origin>0.5 0.5</origin>
 		</image>
 		-->
+		
+		
 
 		<image name="background" extra="true">
 			<tile>false</tile>
