@@ -18,11 +18,16 @@
 			<pos>0.5 0.5</pos>
 			<origin>0.5 0.5</origin>
 			<maxSize>0.7 0.7</maxSize>
-			<path>./console-snes-s.png</path>
+			<path>./console-arcade2.png</path>
 		</image>
-		
+		<!--
+		<text>
+			<pos>0.5 0.5</pos>
+			<value>ARCADE</VALUE>
+		</text>
+		-->
 		<image name="logo">
-			<path>./md-jp.png</path>
+			<path>./logo-snes.png</path>
         </image>
 		
 		<helpsystem name="help">
@@ -60,7 +65,7 @@
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-			<path>./../art/border3megadrivejp.png</path>
+			<path>./../art/border3snes.png</path>
 		</image>		
 	
 		<textlist name="gamelist">
@@ -102,7 +107,7 @@
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-			<path>./../art/border3megadrivejp.png</path>
+			<path>./../art/border3snes.png</path>
 		</image>		
 	
 		<textlist name="gamelist">
