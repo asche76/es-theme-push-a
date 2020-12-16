@@ -28,7 +28,7 @@
 		</text>
 		-->
 		<image name="logo">
-			<path>./logo-arcade.png</path>
+			<path>./logo-lastplayed.png</path>
         </image>
 		
 		<helpsystem name="help">
