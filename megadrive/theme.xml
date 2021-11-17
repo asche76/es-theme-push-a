@@ -18,7 +18,7 @@
 			<pos>0.5 0.5</pos>
 			<origin>0.5 0.5</origin>
 			<maxSize>0.7 0.7</maxSize>
-			<path>./console-md-jp.png</path>
+			<path>./console-md-s.png</path>
 		</image>
 		
 		<image name="logo">
